@@ -9,8 +9,17 @@ An awesome collection of cool links about cool things. Items are sorted by date.
 ## Cloud ##
 
 ### Comparisons
-Public Cloud Services Comparison
-http://comparecloud.in/
+Public Cloud Services Comparison - http://comparecloud.in/
+
+
+
+&nbsp;
+&nbsp;
+
+
+
+## Online Text Editors
+collabedit - http://collabedit.com/ [*]
 
 
 
@@ -28,3 +37,14 @@ https://blog.google/inside-google/working-google/working-together-when-were-not-
 
 Distributed Work Playbooks ("findings and best practices for distributed work") [Google]
 http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf
+
+
+
+&nbsp;
+&nbsp;
+
+
+## z, Misc
+NATO phonetic alphabet - https://en.wikipedia.org/wiki/NATO_phonetic_alphabet [Wikipedia]
+
+
