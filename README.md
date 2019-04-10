@@ -11,3 +11,6 @@ https://www.inc.com/justin-bariso/google-spent-2-years-researching-what-makes-a-
 
 Working together when we’re not together [20190404, Google Blog]
 https://blog.google/inside-google/working-google/working-together-when-were-not-together/
+
+Distributed Work Playbooks ("findings and best practices for distributed work") [Google]
+http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf
