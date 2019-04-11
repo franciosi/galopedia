@@ -8,7 +8,7 @@ An awesome collection of cool links about cool *{stuff,things,itens}*. Articles 
 
 ## Cloud ##
 
-### Comparisons
+### Services Comparisons
 Public Cloud Services Comparison - http://comparecloud.in/ [*]
 
 
