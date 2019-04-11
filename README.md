@@ -1,5 +1,5 @@
 # Galopedia
-An awesome collection of cool links about cool things. Items are sorted by date.
+An awesome collection of cool links about cool *{stuff,things,itens}*. Items are sorted by date.
 
 &nbsp;
 &nbsp;
@@ -9,7 +9,7 @@ An awesome collection of cool links about cool things. Items are sorted by date.
 ## Cloud ##
 
 ### Comparisons
-Public Cloud Services Comparison - http://comparecloud.in/
+Public Cloud Services Comparison - http://comparecloud.in/ [*]
 
 
 
