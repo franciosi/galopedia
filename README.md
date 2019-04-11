@@ -1,5 +1,5 @@
 # Galopedia
-An awesome collection of cool links about cool *{stuff,things,itens}*. Items are sorted by date.
+An awesome collection of cool links about cool *{stuff,things,itens}*. Articles sorted by date.
 
 &nbsp;
 &nbsp;
