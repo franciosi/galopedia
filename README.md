@@ -44,6 +44,21 @@ http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf
 &nbsp;
 
 
+
+## SRE
+Introduction to SRE at Google - Christof Leng [201906, YouTube, GOTO 2018]
+https://www.youtube.com/watch?v=d2wn_E1jxn4
+
+Notes from Production Engineering - Pedro Canahuati [201503, SREcon15]
+https://www.usenix.org/conference/srecon15/program/presentation/canahuati
+
+
+
+&nbsp;
+&nbsp;
+
+
+
 ## z, Misc
 NATO phonetic alphabet - https://en.wikipedia.org/wiki/NATO_phonetic_alphabet [Wikipedia]
 
